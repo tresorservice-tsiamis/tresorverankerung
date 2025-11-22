@@ -1,77 +1,58 @@
-# Verankerungsprotokoll – Tresor / Wertschutzschrank
+# Tresorverankerung – Fachwissen & Dokumentation
 
-> Musterprotokoll für die fachgerechte Verankerung.  
-> Hinweis: Inhalte sind an objekt- und herstellerspezifische Vorgaben anzupassen.
+Dieses Repository bündelt fachliches Know-how zur **Verankerung von Tresoren und Wertschutzschränken** – mit Fokus auf Sicherheit, Normen, Haftung und prüffähige Dokumentation.
 
-## 1. Objekt- und Kundendaten
+Ziel:
+- Klarheit für Fachbetriebe, Techniker und Sicherheitsverantwortliche
+- Minimierung von Haftungsrisiken im Schadenfall
+- Standardisierte, nachvollziehbare Verankerungsprozesse
 
-- Kunde / Objekt:
-- Adresse:
-- Ansprechpartner vor Ort:
-- Datum der Montage:
-- Ausführender Betrieb:
-- Techniker:
-
-## 2. Tresordaten
-
-- Hersteller:
-- Typ / Modell:
-- Sicherheitsstufe / Klassifizierung (falls bekannt):
-- Seriennummer:
-- Gewicht (ca.):
-
-## 3. Standort und Untergrund
-
-- Standort (Raum, Geschoss):
-- Art des Untergrundes (z. B. Beton C20/25, bewehrt, Estrich, etc.):
-- Aufbau des Bodens / Wand (falls bekannt):
-- Prüfung auf Leitungen / Fußbodenheizung:
-- Bemerkungen:
-
-## 4. Verankerungssystem
-
-- Verwendeter Ankertyp:
-- Zulassung (z. B. ETA-Nummer / DIBt):
-- Anzahl der Anker:
-- Anordnung (Bohrbild, z. B. Skizze / Foto im Anhang):
-- Besonderheiten:
-
-## 5. Bohr- und Montageparameter
-
-- Bohrdurchmesser:
-- Bohrtiefe:
-- Reinigung der Bohrlöcher (z. B. Bürsten / Ausblasen):
-- Einbauart (z. B. Drehmomentstütze, Setzwerkzeug, Injektionsmörtel):
-- Aushärtezeit (bei chemischen Systemen):
-
-## 6. Prüfung
-
-- Anzugsmoment je Anker (Nm):
-- Verwendetes Werkzeug (z. B. Drehmomentschlüssel, Typ):
-- Sichtprüfung auf Risse / Abplatzungen:
-- Bemerkungen zur Prüfung:
-
-## 7. Fotos / Anlagen
-
-- Foto des Standorts:
-- Foto der gesetzten Anker / Bohrungen:
-- Foto des fertig verankerten Tresors:
-- Weitere Anlagen:
-
-## 8. Bestätigung
-
-**Ausführender Fachbetrieb**
-
-- Name des Technikers:
-- Unterschrift:
-- Datum:
-
-**Kunde / Objektverantwortlicher**
-
-- Name:
-- Unterschrift:
-- Datum:
+> Hinweis: Dieses Repo richtet sich an Fachkreise. Es ist kein DIY-Leitfaden für Privatpersonen.
 
 ---
 
-_Hinweis:_ Dieses Protokoll ist ein Muster und ersetzt keine normativen Vorgaben oder herstellerspezifischen Montageanleitungen.
+## Inhalte
+
+Die Inhalte werden schrittweise in einzelne Module gegliedert:
+
+- `docs/01_einfuehrung-tresorverankerung.md`  
+- `docs/02_untergrundanalyse-beton-c20-25.md`  
+- `docs/03_auswahl-verankerungssysteme.md`  
+- `docs/04_montageprozess.md`  
+- `docs/05_verankerungsprotokoll-template.md`  
+
+Weitere Dateien:
+- `templates/verankerungsprotokoll_de.md` – Musterprotokoll für die Verankerung
+
+---
+
+## Zielgruppe
+
+- Tresorservice- und Sicherheitsfachbetriebe  
+- Monteure und Techniker  
+- Sicherheitsverantwortliche in Unternehmen, Kanzleien, Praxen, Behörden  
+- Versicherer, Gutachter und Berater
+
+---
+
+## Fokus & Grenzen
+
+**Im Fokus:**
+- fachgerechte Verankerung in zugfestem Beton (z. B. C20/25 oder höher)
+- Best Practices nach anerkannten Regeln der Technik
+- Dokumentation orientiert an einschlägigen Normen (z. B. EN 1143-1, VDMA 24992 – soweit anwendbar)
+
+**Nicht Bestandteil:**
+- vertrauliche Hersteller-Interna
+- detaillierte Bohr- und Manipulationstechniken
+- Werbung für einzelne Marken oder Hersteller
+
+---
+
+## Maintainer
+
+Maintainer: **Tresorservice Tsiamis**  
+Spezialist für zerstörungsfreie Tresoröffnung, fachgerechte Tresorverankerung und dokumentierte Wertschutztechnik.
+
+Mehr Praxisinfos zur Verankerung von Tresoren:  
+https://tresor-oeffnung.com/tresorverankerung/
